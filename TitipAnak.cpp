@@ -1,3 +1,6 @@
+// Fiky Anggara
+// Teknologi Informasi
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
