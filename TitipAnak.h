@@ -10,6 +10,9 @@ void jadwal();
 
 };
 
+// Fiky Anggara
+// Teknologi Informasi
+
 
 
 #endif // TITIPANAK_H_INCLUDED
