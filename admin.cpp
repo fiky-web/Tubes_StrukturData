@@ -7,6 +7,8 @@
 #include "admin.h"
 #include "titipanak.h"
 using namespace std;
+// Fiky Anggara
+// Teknologi Informasi
 admin::admin(){
 }
 int admin :: ketemu_data(int kode_ibu){
