@@ -1,6 +1,9 @@
 #ifndef ADMIN_H_INCLUDED
 #define ADMIN_H_INCLUDED
 
+// Fiky Anggara
+// Teknologi Informasi
+
 class admin
 {
 public:
